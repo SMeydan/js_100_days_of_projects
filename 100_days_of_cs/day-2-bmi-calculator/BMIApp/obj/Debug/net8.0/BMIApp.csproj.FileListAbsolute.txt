@@ -1,0 +1,15 @@
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-2-bmi-calculator\BMIApp\obj\Debug\net8.0\BMIApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-2-bmi-calculator\BMIApp\obj\Debug\net8.0\BMIApp.AssemblyInfoInputs.cache
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-2-bmi-calculator\BMIApp\obj\Debug\net8.0\BMIApp.AssemblyInfo.cs
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-2-bmi-calculator\BMIApp\obj\Debug\net8.0\BMIApp.csproj.CoreCompileInputs.cache
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-2-bmi-calculator\BMIApp\obj\Debug\net8.0\BMIApp.sourcelink.json
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-2-bmi-calculator\BMIApp\bin\Debug\net8.0\BMIApp.exe
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-2-bmi-calculator\BMIApp\bin\Debug\net8.0\BMIApp.deps.json
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-2-bmi-calculator\BMIApp\bin\Debug\net8.0\BMIApp.runtimeconfig.json
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-2-bmi-calculator\BMIApp\bin\Debug\net8.0\BMIApp.dll
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-2-bmi-calculator\BMIApp\bin\Debug\net8.0\BMIApp.pdb
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-2-bmi-calculator\BMIApp\obj\Debug\net8.0\BMIApp.dll
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-2-bmi-calculator\BMIApp\obj\Debug\net8.0\refint\BMIApp.dll
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-2-bmi-calculator\BMIApp\obj\Debug\net8.0\BMIApp.pdb
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-2-bmi-calculator\BMIApp\obj\Debug\net8.0\BMIApp.genruntimeconfig.cache
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-2-bmi-calculator\BMIApp\obj\Debug\net8.0\ref\BMIApp.dll
