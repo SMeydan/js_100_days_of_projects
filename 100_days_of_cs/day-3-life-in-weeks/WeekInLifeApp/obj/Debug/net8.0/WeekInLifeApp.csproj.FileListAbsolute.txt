@@ -1,0 +1,15 @@
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-3-life-in-weeks\WeekInLifeApp\obj\Debug\net8.0\WeekInLifeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-3-life-in-weeks\WeekInLifeApp\obj\Debug\net8.0\WeekInLifeApp.AssemblyInfoInputs.cache
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-3-life-in-weeks\WeekInLifeApp\obj\Debug\net8.0\WeekInLifeApp.AssemblyInfo.cs
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-3-life-in-weeks\WeekInLifeApp\obj\Debug\net8.0\WeekInLifeApp.csproj.CoreCompileInputs.cache
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-3-life-in-weeks\WeekInLifeApp\obj\Debug\net8.0\WeekInLifeApp.sourcelink.json
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-3-life-in-weeks\WeekInLifeApp\bin\Debug\net8.0\WeekInLifeApp.exe
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-3-life-in-weeks\WeekInLifeApp\bin\Debug\net8.0\WeekInLifeApp.deps.json
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-3-life-in-weeks\WeekInLifeApp\bin\Debug\net8.0\WeekInLifeApp.runtimeconfig.json
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-3-life-in-weeks\WeekInLifeApp\bin\Debug\net8.0\WeekInLifeApp.dll
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-3-life-in-weeks\WeekInLifeApp\bin\Debug\net8.0\WeekInLifeApp.pdb
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-3-life-in-weeks\WeekInLifeApp\obj\Debug\net8.0\WeekInLifeApp.dll
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-3-life-in-weeks\WeekInLifeApp\obj\Debug\net8.0\refint\WeekInLifeApp.dll
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-3-life-in-weeks\WeekInLifeApp\obj\Debug\net8.0\WeekInLifeApp.pdb
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-3-life-in-weeks\WeekInLifeApp\obj\Debug\net8.0\WeekInLifeApp.genruntimeconfig.cache
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-3-life-in-weeks\WeekInLifeApp\obj\Debug\net8.0\ref\WeekInLifeApp.dll

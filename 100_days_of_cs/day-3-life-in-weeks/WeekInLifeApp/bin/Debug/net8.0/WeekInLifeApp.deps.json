@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WeekInLifeApp/1.0.0": {
+        "runtime": {
+          "WeekInLifeApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeekInLifeApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
