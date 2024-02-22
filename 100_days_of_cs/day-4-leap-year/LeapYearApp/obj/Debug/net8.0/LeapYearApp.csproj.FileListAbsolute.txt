@@ -1,0 +1,15 @@
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-4-leap-year\LeapYearApp\bin\Debug\net8.0\LeapYearApp.exe
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-4-leap-year\LeapYearApp\bin\Debug\net8.0\LeapYearApp.deps.json
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-4-leap-year\LeapYearApp\bin\Debug\net8.0\LeapYearApp.runtimeconfig.json
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-4-leap-year\LeapYearApp\bin\Debug\net8.0\LeapYearApp.dll
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-4-leap-year\LeapYearApp\bin\Debug\net8.0\LeapYearApp.pdb
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-4-leap-year\LeapYearApp\obj\Debug\net8.0\LeapYearApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-4-leap-year\LeapYearApp\obj\Debug\net8.0\LeapYearApp.AssemblyInfoInputs.cache
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-4-leap-year\LeapYearApp\obj\Debug\net8.0\LeapYearApp.AssemblyInfo.cs
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-4-leap-year\LeapYearApp\obj\Debug\net8.0\LeapYearApp.csproj.CoreCompileInputs.cache
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-4-leap-year\LeapYearApp\obj\Debug\net8.0\LeapYearApp.sourcelink.json
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-4-leap-year\LeapYearApp\obj\Debug\net8.0\LeapYearApp.dll
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-4-leap-year\LeapYearApp\obj\Debug\net8.0\refint\LeapYearApp.dll
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-4-leap-year\LeapYearApp\obj\Debug\net8.0\LeapYearApp.pdb
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-4-leap-year\LeapYearApp\obj\Debug\net8.0\LeapYearApp.genruntimeconfig.cache
+C:\Users\suden\OneDrive\Desktop\100_days_of_cs\day-4-leap-year\LeapYearApp\obj\Debug\net8.0\ref\LeapYearApp.dll
